@@ -1,0 +1,23 @@
+i.icon{
+    font-size: 2em;
+}
+
+.main.container{
+    margin-top: 7em;
+}
+form.delete{
+    display: inline;
+}
+
+.content, .field{
+    margin-top: 2em;
+}
+
+.created{
+    color: rgb(188,190,192);
+    font-style: italic;
+}
+
+.thumbnail{
+    height: 110px !important;
+}
